@@ -1,0 +1,137 @@
+OS:
+Linux:
+Kali Linux (http://www.kali.org/) (Related: The Basics of Hacking and Penetration Testing, Second Edition)
+Tails
+
+Programming:
+Grey Hat Python http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/book/sCRNXl9fMLAsrsKf
+
+Violent Python http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/book/kWfF0wyE7TjdMgvv
+
+Black Hat Python · Python Programming for Hackers and Pentesters http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/book/DoIJA4C_XPlyNRaS
+
+The Linux Programming Interface http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/book/Qp4q4HcSoD8geN6a
+
+Articles/magazines/guides:
+http://www.phrack.org/
+http://www.rohitab.com/discuss/topic/35537-cc-reverse-engineering-tutorial-for-newbies/
+https://www.chronicle.com/article/why-privacy-matters-even-if-you-have-nothing-to-hide/
+https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition
+https://forum.xda-developers.com/t/tutorial-how-to-flash-kali-pwn-pad-on-your-n7-2013.2577356/
+
+Sites:
+Exercises & more
+------------------------------------------------------------
+https://overthewire.org/wargames/
+https://halls-of-valhalla.org/beta/challenges
+https://hackthissite.org/
+http://smashthestack.org/
+------------------------------------------------------------
+
+https://www.exploit-db.com/
+https://www.owasp.org/
+https://ipalyzer.com/
+
+Youtube:
+https://www.youtube.com/user/ShrikeCast/videos
+https://www.youtube.com/user/danscourses/videos
+
+Reddit sub
+/r/netsec
+/r/crypto
+/r/malware
+/r/xss
+/r/reverseengineering
+/r/blackhat
+/r/hacking
+
+Software:
+VirtualBox
+https://otr.cypherpunks.ca/
+
+Tools:
+python + scapy
+SET
+Browser Exploitation Framework (BeEF)
+hexdump
+objdump
+radare2
+gdb
+YARA
+reaver
+LANs.py
+
+Online courses:
+https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
+
+Misc:
+Practical Packet Analysis, 3E http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/book/4b7YbmWGz_fdG_lF
+
+IRC:
+https://quadpoint.org/articles/irssi/
+Rizon: #8hack, #8chan (kek)
+Freenode: #r_netsec, ##security
+EFnet: #security
+irc.2600.net (Tor: awwqg2ishrohngue.onion)
+irc.cryto.net
+
+Anonymization & Security:
+I2P
+Tor
+VPNs http://torrentfreak.com/which-vpn-services-take-your-anonymity-seriously-2014-edition-140315/
+SSH tunnels https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/
+IRC https://newblood.anonops.com/
+
+Learning:
+http://www.securitytube.net/
+https://www.wonderhowto.com/
+https://cyberpunk.xyz/
+https://www.offensive-security.com/metasploit-unleashed/
+https://www.exploit-db.com/
+http://resources.infosecinstitute.com/
+http://techgenix.com/
+https://www.blackhat.com/html/archives.html
+http://magazine.hitb.org/hitb-magazine.html
+https://opensecuritytraining.info/Training.html
+http://routerpwn.com/
+https://www.corelan.be/index.php/articles/
+https://packetstormsecurity.com/files/
+
+News:
+https://threatpost.com/
+https://krebsonsecurity.com/
+https://nakedsecurity.sophos.com/
+https://www.bleepingcomputer.com/
+https://thehackernews.com/
+
+Wargames:
+https://overthewire.org/wargames/
+https://www.pentesterlab.com/
+http://www.itsecgames.com/
+http://3564020356.org/
+http://www.hackthissite.org/
+http://www.hackertest.net/
+
+Distros:
+https://www.kali.org/
+https://tails.boum.org/
+https://www.qubes-os.org/
+https://www.debian.org/
+https://ubuntu.com/
+https://www.whonix.org/
+https://www.archlinux.org/
+
+>Where to start
+https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
+
+>Learning material
+https://www.theodinproject.com/
+
+>Frontend development
+https://github.com/dypsilon/frontend-dev-bookmarks
+
+>Backend development
+https://en.m.wikipedia.org/wiki/Comparison_of_web_frameworks
+
+>Useful tools
+https://libraries.io/ Discover new open source libraries, modules and frameworks and keep track of ones you depend upon
