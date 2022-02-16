@@ -1,0 +1,74 @@
+https://websec.ca/kb/sql_injection
+
+A complete mindmap about all the courses and trainings from this post can be found here:
+http://www.amanhardikar.com/mindmaps/Practice.png
+
+Following table gives the URLs of all the vulnerable web applications, operating system installations, old software and war games [hacking] sites. The URLs for individual applications that are part of other collection entities were not given as it is not necessary to download each of them and manually configure them if they are already available in a configured state. For technologies used in each web application, please refer to the mindmap above.
+
+Vulnerable Web Applications:
+OWASP BWA: http://code.google.com/p/owaspbwa
+Damn Vulnerable Web App (DVWA): http://www.dvwa.co.uk/
+WebGoat.NET: https://github.com/jerryhoff/WebGoat.NET
+PentesterLab: https://pentesterlab.com
+Barracuda Networks: https://www.barracuda.com/
+WebSecurity: https://www.mavensecurity.com/
+BodgeIt Store: https://github.com/psiinon/bodgeit
+hackxor: https://hackxor.net/
+CryptOMG: https://github.com/SpiderLabs/CryptOMG
+PHDays iBank CTF: http://blog.phdays.com/2012/05/once-again-about-remote-banking.html
+GameOver: https://sourceforge.net/projects/null-gameover/
+zaproxy: https://code.google.com/archive/p/zaproxy/downloads
+puzzlemall: https://code.google.com/archive/p/puzzlemall/
+VulnApp: http://www.nth-dimension.org.uk/blog.php?id=88
+sqli-labs: https://github.com/Audi-1/sqli-labs
+mutillidae: https://github.com/webpwnized/mutillidae
+SocketToMe: https://digi.ninja/projects/sockettome.php
+
+Vulnerable Operating System Installations:
+Damn Vulnerable Linux: https://sourceforge.net/projects/virtualhacking/files/
+Metasploit: https://www.metasploit.com/
+PenTest Laboratory: http://pentestlab.org
+GoatseLinux: https://neutronstar.org/goatselinux.html
+Hacking-Lab: https://www.hacking-lab.com/index.html
+
+Sites for Improving Your Hacking Skills:
+http://hax.tor.hu/welcome/
+Google Gruyere: http://google-gruyere.appspot.com
+Hack This Site: http://www.hackthissite.org
+Hack Me: https://hack.me/
+Root Me: https://www.root-me.org/?lang=en
+Security Treasure Hunt: http://www.securitytreasurehunt.com/
+
+CTF Sites / Archives:
+CTFtime (Details of CTF Challenges): http://ctftime.org/ctfs
+shell-storm Repo: http://shell-storm.org/repo/CTF
+CAPTF Repo: http://captf.com
+VulnHub: https://www.vulnhub.com
+
+The complete playlist on youtube can be found on:
+https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nXcDG89jS9iqKBnNHmz7Qw
+
+Day 1 Part 1 (5:25) – What is RE and What Can it Tell Me?
+Day 1 Part 2 (30:03) – Refresher
+Day 1 Part 3 (34:57) – Know Your Tools
+Day 1 Part 4 (2:24) – The basic RE algorithm
+Day 1 Part 5 (7:14) – Applying the RE Algorithm to the Bomb Lab
+Day 1 Part 6 (22:29) – Lab Outline
+Day 1 Part 7 (6:33) – Creating the Bomb Lab Answers File
+Day 1 Part 8 (6:41) – Phase 2 Introduction
+Day 1 Part 9 (28:23) – Phase 2 Walkthrough
+Day 1 Part 10 (6:54) – Phase 3 Introduction
+Day 1 Part 11 (22:21) – Phase 3 Walkthrough
+Day 1 Part 12 (8:57) – Phase 4 Introduction
+Day 1 Part 13 (14:08) – Phase 3 Introduction
+Day 1 Part 14 (32:40) – Debugging
+Day 1 Part 15 (3:32) – Day 1 review
+Day 2 Part 1 (15:12) – Day 1 review 2
+Day 2 Part 2 (11:21) – Phase 5 Introduction
+Day 2 Part 3 (22:14) – Phase 5 Walkthrough
+Day 2 Part 4 (20:50) – Phase 6 Introduction
+Day 2 Part 5 (27:47) – Phase 6 Introduction 2
+Day 2 Part 6 (19:25) – Phase 6 Walkthrough
+Day 2 Part 7 (38:31) – Phase 6 Walkthrough 2
+Day 2 Part 8 (12:15) – Analyzing C++
+Day 2 Part 9 (7:39) – Next Class, Other Languages, & Day 2 Review 
